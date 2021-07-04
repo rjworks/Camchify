@@ -4,3 +4,5 @@
 
 ### Do <ins>NOT</ins> try with your real credit card because these cameras are kind of pricy! :trollface:
 
+### Demo:
+![Alt Demo](demo.gif)
