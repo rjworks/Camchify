@@ -35,7 +35,7 @@ const Checkout = ({cart, onCaptureCheckout, error, order}) => {
     }
 
     const Confirmation = () => (
-        <div>Confirmation</div>
+        <div>Your order was successful. Please check your email for confirmation.</div>
     )
 
     const Form = () => activeStep === 0
